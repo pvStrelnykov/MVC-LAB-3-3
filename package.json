@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "zad1": "nodemon zad1/app.js",
-    "zad2": "nodemon zad2/app.js"
+    "zad2": "nodemon zad2/app.js",
+    "zad3": "nodemon zad3/app.js"
   },
   "keywords": [],
   "author": "Pavlo Strelnykov",
