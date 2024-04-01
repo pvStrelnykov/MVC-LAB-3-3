@@ -5,7 +5,8 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "zad1": "nodemon zad1/app.js"
+    "zad1": "nodemon zad1/app.js",
+    "zad2": "nodemon zad2/app.js"
   },
   "keywords": [],
   "author": "Pavlo Strelnykov",
@@ -15,6 +16,7 @@
     "nodemon": "^3.1.0"
   },
   "dependencies": {
+    "body-parser": "^1.20.2",
     "express": "^4.19.2"
   }
 }
